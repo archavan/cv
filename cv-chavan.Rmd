@@ -15,21 +15,12 @@ New Haven CT, USA \hfill website: https://archavan.github.io
 
 \hrulefill
 
-## Education
-<!-- \hrule   -->
-
-Ph.D. Ecology and Evolutionary Biology, Yale University \small(Adviser: Dr. Gunter Wagner) \normalsize \hfill 2012–2018   
-<!-- \small  -->
-<!-- Adviser – Dr. Gunter Wagner -->
-<!-- \normalsize -->
-M.Sc. Biology, Tata Institute of Fundamental Research \small(Adviser: Dr. Himanshu Sinha) \normalsize \hfill 2009–2012  
-<!-- \small  -->
-<!-- Adviser – Dr. Himanshu Sinha -->
-<!-- \normalsize -->
-B.Sc. Biotechnology, Fergusson College, University of Pune \hfill 2006–2009
+## Education 
+**Ph.D.**, Yale University \small (Ecology and Evolutionary Biology; Adviser: Dr. Gunter Wagner) \normalsize  \hfill 2012–2018   
+**M.Sc.**, Tata Institute of Fundamental Research \small (Biology; Adviser: Dr. Himanshu Sinha) \normalsize  \hfill 2009–2012  
+**B.Sc.**, Fergusson College, University of Pune \small (Biotechnology) \normalsize \hfill 2006–2009  
 
 ## Appointments
-
 Postdoctoral Associate & \hfill 2021--Present      
 CRI Irvington Postdoctoral Fellow	\hfill 2019--2021    
 \indent\hspace{0.5cm}Department of Immunobiology,  
@@ -94,7 +85,8 @@ Kin K, Maziarz J, **Chavan AR**, Kamat M, Vasudevan S, Birt A, Emera D, Lynch VJ
 
 1. Polygenic *cis*-regulatory adaptation in the evolution of yeast pathogenicity  
 [*Genome Research* 22:1930--1939](http://www.genome.org/cgi/doi/10.1101/gr.134080.111)   
-Fraser HB, Levy S\*, **Chavan A**\*, Shah HB, Perez JC, Zhou Y, Siegal ML, Sinha H (2012) [\* equal contribution]  
+Fraser HB, Levy S\*, **Chavan A**\*, Shah HB, Perez JC, Zhou Y, Siegal ML, Sinha H (2012)  
+(\*equal contribution)  
 
 ### Dissertations
 
@@ -104,10 +96,7 @@ Fraser HB, Levy S\*, **Chavan A**\*, Shah HB, Perez JC, Zhou Y, Siegal ML, Sinha
 2. *Allelic variation in yeast: its role in *cis*-regulatory adaptation and its pleiotropic consequences*  
 **Chavan AR** (2012). Tata Institute of Fundamental Research.
 
-<!-- TODO: add master's dissertation -->
-
 ## Funding, Fellowships, and Prizes
-<!-- \hrule -->
 ### Fellowships and Prizes
 
 John Spangler Nicholas Prize (for doctoral dissertation, Yale University)	\hfill 2019  
@@ -130,7 +119,6 @@ Robert W. Carle Scholarship (Yale University) \hfill	2013–2014
 Junior Research Scholarship (Tata Institute of Fundamental Research, Government of India) \hfill 2009–2012
 
 ## Media Coverage
-<!-- \hrule -->
 
 - Coverage for talk at SICB, San Francisco 2018 (now published as Chavan et al, *Mol Biol Evol* 2020)
   - Tamed immune reaction aids pregnancy, Elizabeth Pennisi, [*Science* 359(6373):260](https://doi.org/10.1126/science.359.6373.260)
@@ -144,8 +132,6 @@ Junior Research Scholarship (Tata Institute of Fundamental Research, Government 
   - Immune response to COVID virus may pose greater risk to pregnant women than virus itself, *Yale News* by Bill Hathaway on April 22, 2021
 
 ## Teaching
-<!-- \hrule -->
-
 ### Teaching Fellow, Yale University
 
 EEB 290: Comparative Vertebrate Anatomy \hfill 2014 & 2015 Spring  
@@ -157,13 +143,11 @@ EEB 225: Introduction to Evolution \hfill 2013 Spring
 
 Meena Ambati, Yale College, New Haven CT \hfill 2022--Present   
 Ben Nikitin, Yale College, New Haven CT \hfill 2021--2022  
-Mita Kale, Glastonbury High School, Glastonbury CT \hfill 2016 Summ.  
+Mita Kale, Glastonbury High School, Glastonbury CT \hfill 2016 Summer  
 Haleigh Larson, Yale College, New Haven CT \hfill 2016  
-Minnah Thomas, Tata Institute of Fundamental Research, Mumbai \hfill 2011 Summ.
+Minnah Thomas, Tata Institute of Fundamental Research, Mumbai \hfill 2011 Summer
 
 ## Academic Service
-<!-- \hrule -->
-
 ### Journal referee
 
 Journal of Experimental Zoology Part B: Molecular and Developmental Evolution  
@@ -178,8 +162,6 @@ Yale Institute for Biospheric Studies Doctoral Pilot Grants \hfill 2019 & 2020
 Yale Institute for Biospheric Studies Doctoral Dissertation Improvements Grants \hfill 2019 & 2020
 
 ## Presentations
-<!-- \hrule -->
-
 ### Talks
 
 Amphioxus Satellite Meeting, European Society for Evolutionary Developmental Biology, Naples, Italy \hfill 2022  
@@ -204,14 +186,12 @@ Graduate Student Symposium, Ecology & Evolutionary Biology, Yale University, New
 International Conference on Yeast Biology, Mumbai, India \hfill 2011
 
 ## Outreach
-<!-- \hrule -->
 
-eMediator at The School in the Cloud (Held weekly Skype sessions with high school and middle school students in Phaltan, India) \hfill 2015–2016   
-Represented the Department of Biological Sciences on Science Popularization and Public Outreach Committee, Tata Institute of Fundamental Research, Mumbai, India	\hfill 2011–2012  
-Volunteered fortnightly in organizing sessions of ‘Chai and Why?’, a forum for interactive scientific discussions outside the academic setting. (Organized by Tata Institute of Fundamental Research and held at Ruia College and Prithvi Theater, Mumbai, India) \hfill 2009–2011
+eMediator at The School in the Cloud (weekly Skype sessions with school students in Phaltan, India) \hfill 2015--2016   
+Represented the Department of Biological Sciences on Science Popularization and Public Outreach Committee, Tata Institute of Fundamental Research, India	\hfill 2011--2012  
+Volunteered fortnightly in organizing sessions of ‘Chai and Why?’, a forum for interactive scientific discussions outside the academic setting. (Organized by Tata Institute of Fundamental Research and held at Ruia College and Prithvi Theater, Mumbai, India) \hfill 2009--2011
 
 ## Academic References
-<!-- \hrule -->
 
 Dr. Ruslan Medzhitov (postdoctoral adviser): ruslan.medzhitov@yale.edu  
 Dr. Gunter P. Wagner (doctoral thesis adviser): gunter.wagner@yale.edu  
