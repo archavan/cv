@@ -16,11 +16,13 @@ New Haven CT, USA \hfill website: https://archavan.github.io
 \hrulefill
 
 ## Education 
+\vspace{-0.5em}
 **Ph.D.**, Yale University \small (Ecology and Evolutionary Biology; Adviser: Dr. Gunter Wagner) \normalsize  \hfill 2012–2018   
 **M.Sc.**, Tata Institute of Fundamental Research \small (Biology; Adviser: Dr. Himanshu Sinha) \normalsize  \hfill 2009–2012  
 **B.Sc.**, Fergusson College, University of Pune \small (Biotechnology) \normalsize \hfill 2006–2009  
 
 ## Appointments
+\vspace{-0.5em}
 Postdoctoral Associate & \hfill 2021--Present      
 CRI Irvington Postdoctoral Fellow	\hfill 2019--2021    
 \indent\hspace{0.5cm}Department of Immunobiology,  
@@ -28,8 +30,9 @@ CRI Irvington Postdoctoral Fellow	\hfill 2019--2021
 \indent\hspace{0.5cm}Adviser – Dr. Ruslan Medzhitov
 
 ## Publications
+\vspace{-0.5em}
 ### Peer-reviewed
-
+\vspace{-1em}
 1. SARS-CoV-2 infection in pregnancy is associated with robust inflammatory response at the maternal-fetal interface  
 [*Med* 2(5), 591-610](https://doi.org/10.1016/j.medj.2021.04.016)  
 Lu-Culligan A, **Chavan AR**, Vijayakumar P, Irshaid L, Courchaine EM, Milano KM, Tang Z, Pope SD, Song E, Vogels CBF, Lu-Culligan WJ, Campbell KH, Casanovas-Massana A, Bermejo S, Toothaker JM, Lee HJ, Liu F, Schulz W, Fournier J, Muenker MC, Moore AJ, Yale IMPACT Team, Konnikova L, Neugebauer KM, Ring A, Grubaugh ND, Ko AI, Morotti R, Guller S, Kliman HJ, Iwasaki A, Farhadian SF (2021)
@@ -89,7 +92,7 @@ Fraser HB, Levy S\*, **Chavan A**\*, Shah HB, Perez JC, Zhou Y, Siegal ML, Sinha
 (\*equal contribution)  
 
 ### Dissertations
-
+\vspace{-1em}
 1. *Evolutionary origin of cell types: a case study of decidual cells in mammalian pregnancy*  
 **Chavan AR** (2018). Yale University.
 
@@ -97,29 +100,30 @@ Fraser HB, Levy S\*, **Chavan A**\*, Shah HB, Perez JC, Zhou Y, Siegal ML, Sinha
 **Chavan AR** (2012). Tata Institute of Fundamental Research.
 
 ## Funding, Fellowships, and Prizes
+\vspace{-0.5em}
 ### Fellowships and Prizes
-
+\vspace{-1em}
 John Spangler Nicholas Prize (for doctoral dissertation, Yale University)	\hfill 2019  
 CRI Irvington Postdoctoral Fellowship (Cancer Research Institute, New York)	\hfill 2019--2021  
 Finalist, Best Student Presentation Award (Society for Integrative and Comparative Biology; DEDB) \hfill	2018  
 Student Poster Prize (Complex Traits Symposium, Society for Molecular Biology and Evolution) \hfill 2017
 
 ### Research and Travel Grants
-
+\vspace{-1em}
 Young Investigator Travel Award (Society for Molecular Biology and Evolution)	\hfill 2017  
 Chair’s Fund, Ecology & Evolutionary Biology (Yale University) \hfill 2016  
 Conference Travel Fellowship (Yale University) \hfill 2016  
 Chair’s Fund, Ecology & Evolutionary Biology (Yale University) \hfill 2014
 
 ### Graduate School Funding Sources
-
+\vspace{-1em}
 Charles A. & June R. P. Ross Fellowship (Yale University)	\hfill 2016–2017  
 Leo F. Rettger Fellowship (Yale University) \hfill 2014–2015  
 Robert W. Carle Scholarship (Yale University) \hfill	2013–2014  
 Junior Research Scholarship (Tata Institute of Fundamental Research, Government of India) \hfill 2009–2012
 
 ## Media Coverage
-
+\vspace{-0.5em}
 - Coverage for talk at SICB, San Francisco 2018 (now published as Chavan et al, *Mol Biol Evol* 2020)
   - Tamed immune reaction aids pregnancy, Elizabeth Pennisi, [*Science* 359(6373):260](https://doi.org/10.1126/science.359.6373.260)
   - Armadillo and rabbit genes reveal how pregnancy evolved, Amy Maxmen, [*Nature*](https://www.nature.com/articles/d41586-018-00341-w) (Republished by [*Scientific American*](https://www.scientificamerican.com/article/armadillo-hedgehog-and-rabbit-genes-reveal-how-pregnancy-evolved/))
@@ -132,15 +136,16 @@ Junior Research Scholarship (Tata Institute of Fundamental Research, Government 
   - Immune response to COVID virus may pose greater risk to pregnant women than virus itself, *Yale News* by Bill Hathaway on April 22, 2021
 
 ## Teaching
+\vspace{-0.5em}
 ### Teaching Fellow, Yale University
-
+\vspace{-1em}
 EEB 290: Comparative Vertebrate Anatomy \hfill 2014 & 2015 Spring  
 EEB 291L: Comparative Vertebrate Anatomy Lab \hfill	2014 & 2015 Spring  
 EEB 210: Introduction to Statistics: for Life Sciences \hfill 2013 Fall   
 EEB 225: Introduction to Evolution \hfill 2013 Spring
 
 ### Students mentored
-
+\vspace{-1em}
 Meena Ambati, Yale College, New Haven CT \hfill 2022--Present   
 Ben Nikitin, Yale College, New Haven CT \hfill 2021--2022  
 Mita Kale, Glastonbury High School, Glastonbury CT \hfill 2016 Summer  
@@ -148,8 +153,9 @@ Haleigh Larson, Yale College, New Haven CT \hfill 2016
 Minnah Thomas, Tata Institute of Fundamental Research, Mumbai \hfill 2011 Summer
 
 ## Academic Service
+\vspace{-0.5em}
 ### Journal referee
-
+\vspace{-1em}
 Journal of Experimental Zoology Part B: Molecular and Developmental Evolution  
 Scientific Reports  
 Integrative and Comparative Biology  
@@ -157,13 +163,14 @@ Frontiers in Cell and Developmental Biology
 The Journal of Maternal-Fetal & Neonatal Medicine
 
 ### Grant reviewer
-
+\vspace{-1em}
 Yale Institute for Biospheric Studies Doctoral Pilot Grants \hfill 2019 & 2020  
 Yale Institute for Biospheric Studies Doctoral Dissertation Improvements Grants \hfill 2019 & 2020
 
 ## Presentations
+\vspace{-0.5em}
 ### Talks
-
+\vspace{-1em}
 Amphioxus Satellite Meeting, European Society for Evolutionary Developmental Biology, Naples, Italy \hfill 2022  
 3rd Yale Devo-Evo Congress, New Haven, CT, USA \hfill 2022  
 Indian Society of Developmental Biology, IIT Kanpur, India \hfill 2018  
@@ -176,7 +183,7 @@ European Society for Evolutionary Developmental Biology, Uppsala, Sweden (Invite
 Graduate Student Symposium, Ecology & Evolutionary Biology, Yale University, New Haven, CT, USA \hfill 2016
 
 ### Posters
-
+\vspace{-1em}
 EMBO | EMBL Symposium: The identity and Evolution of Cell Types, Heidelberg, Germany \hfill 2021  
 EMBO | EMBL Symposium: The identity and Evolution of Cell Types, Heidelberg, Germany \hfill 2019  
 Society for Molecular Biology and Evolution, Austin, TX, USA \hfill 2017  
@@ -186,13 +193,13 @@ Graduate Student Symposium, Ecology & Evolutionary Biology, Yale University, New
 International Conference on Yeast Biology, Mumbai, India \hfill 2011
 
 ## Outreach
-
+\vspace{-0.5em}
 eMediator at The School in the Cloud (weekly Skype sessions with school students in Phaltan, India) \hfill 2015--2016   
 Represented the Department of Biological Sciences on Science Popularization and Public Outreach Committee, Tata Institute of Fundamental Research, India	\hfill 2011--2012  
 Volunteered fortnightly in organizing sessions of ‘Chai and Why?’, a forum for interactive scientific discussions outside the academic setting. (Organized by Tata Institute of Fundamental Research and held at Ruia College and Prithvi Theater, Mumbai, India) \hfill 2009--2011
 
 ## Academic References
-
+\vspace{-0.5em}
 Dr. Ruslan Medzhitov (postdoctoral adviser): ruslan.medzhitov@yale.edu  
 Dr. Gunter P. Wagner (doctoral thesis adviser): gunter.wagner@yale.edu  
 Dr. Mihaela Pavlicev (doctoral thesis committee member): mihaela.pavlicev@univie.ac.at  
