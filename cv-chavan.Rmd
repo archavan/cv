@@ -156,11 +156,12 @@ Minnah Thomas, Tata Institute of Fundamental Research, Mumbai \hfill 2011 Summer
 \vspace{-0.5em}
 ### Journal referee
 \vspace{-1em}
-Journal of Experimental Zoology Part B: Molecular and Developmental Evolution  
-Scientific Reports  
-Integrative and Comparative Biology  
+BMC Genomics  
 Frontiers in Cell and Developmental Biology  
-The Journal of Maternal-Fetal & Neonatal Medicine
+Integrative and Comparative Biology  
+Journal of Experimental Zoology Part B: Molecular and Developmental Evolution  
+The Journal of Maternal-Fetal & Neonatal Medicine  
+Scientific Reports
 
 ### Grant reviewer
 \vspace{-1em}
