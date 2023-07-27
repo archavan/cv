@@ -5,7 +5,7 @@ output:
 geometry: margin=0.5in
 urlcolor: #000011
 linestretch: 1.1
-mainfont: Equity Text B
+mainfont: IBM Plex Sans
 ---
 
 # Arun R. Chavan, Ph.D.
