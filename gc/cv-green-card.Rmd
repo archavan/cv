@@ -1,0 +1,215 @@
+---
+output:
+  pdf_document:
+    latex_engine: xelatex
+geometry: margin=0.5in
+urlcolor: #000011
+linestretch: 1.1
+mainfont: IBM Plex Sans
+---
+
+# Arun R. Chavan, Ph.D.
+Postdoctoral Associate     
+Yale University \hfill e-mail: arun.chavan@yale.edu  
+New Haven CT, USA \hfill website: https://archavan.github.io  
+
+\hrulefill
+
+## Education 
+\vspace{-0.5em}
+**Ph.D.**, Yale University \small (Ecology and Evolutionary Biology; Adviser: Dr. Gunter Wagner) \normalsize  \hfill 2012–2018   
+**M.Sc.**, Tata Institute of Fundamental Research \small (Biology; Adviser: Dr. Himanshu Sinha) \normalsize  \hfill 2009–2012  
+**B.Sc.**, Fergusson College, University of Pune \small (Biotechnology) \normalsize \hfill 2006–2009  
+
+## Appointments
+\vspace{-0.5em}
+Postdoctoral Associate & \hfill 2021--Present      
+CRI Irvington Postdoctoral Fellow	\hfill 2019--2021    
+\indent\hspace{0.5cm}Department of Immunobiology,  
+\indent\hspace{0.5cm}Yale University, School of Medicine  
+\indent\hspace{0.5cm}Adviser – Dr. Ruslan Medzhitov
+
+## Publications
+\vspace{-0.5em}
+### Peer-reviewed
+\vspace{-1em}
+1. Tissue Biology: In Search of a New Paradigm  
+*Annu. Rev. Cell Dev. Biol.* (accepted, forthcoming in October 2023)  
+Adler M\*, **Chavan AR**\*, Medzhitov R  
+(\*equal contribution)
+
+1. SARS-CoV-2 infection in pregnancy is associated with robust inflammatory response at the maternal-fetal interface  
+[*Med* 2(5), 591-610](https://doi.org/10.1016/j.medj.2021.04.016)  
+Lu-Culligan A, **Chavan AR**, Vijayakumar P, Irshaid L, Courchaine EM, Milano KM, Tang Z, Pope SD, Song E, Vogels CBF, Lu-Culligan WJ, Campbell KH, Casanovas-Massana A, Bermejo S, Toothaker JM, Lee HJ, Liu F, Schulz W, Fournier J, Muenker MC, Moore AJ, Yale IMPACT Team, Konnikova L, Neugebauer KM, Ring A, Grubaugh ND, Ko AI, Morotti R, Guller S, Kliman HJ, Iwasaki A, Farhadian SF (2021)
+
+1. Evolution of embryo implantation was enabled by the origin of decidual stromal cells in eutherian mammals  
+[*Molecular Biology and Evolution* msaa274](https://doi.org/10.1093/molbev/msaa274)  
+**Chavan AR**, Griffith OW, Stadtmauer D, Maziarz J, Pavlicev M, Fishman R, Koren L, Romero R, Wagner GP (2020) 
+
+1. Endometrial recognition of pregnancy occurs in the grey short-tailed opossum (*Monodelphis domestica*)  
+[*Proc. R. Soc. B* 286: 20190691](https://royalsocietypublishing.org/doi/10.1098/rspb.2019.0691)  
+Griffith OW, **Chavan AR**, Pavlicev M, Protopapas S, Callahan R, Maziarz
+J, Wagner GP (2019)
+
+1. The mammalian decidual cell evolved from a cellular stress response  
+[*PLOS Biology* 16(8): e2005594](https://doi.org/10.1371/journal.pbio.2005594)   
+Erkenbrack EM, Maziarz JD, Griffith OW, Liang C, **Chavan AR**, Nnamani MC, Wagner GP (2018)
+
+1. Reply to Liu: Inflammation before implantation both in evolution and development  
+[*PNAS* 115(1):E3--E4](https://doi.org/10.1073/pnas.1717001115)  
+Griffith OW, **Chavan AR**, Protopapas S, Maziarz J, Romero R, Wagner GP (2017)
+
+1. Genetic Associations with Gestational Duration and Spontaneous Preterm Birth  
+[*New England Journal of Medicine* 377(12):1156--1167](https://www.nejm.org/doi/full/10.1056/NEJMoa161266)  
+Zhang G, Feenstra B, Bacelis J, Liu X, Muglia L.M, Juodakis J, Miller DE, Litterman N, Jiang PP, Russell L, Hinds DA, Hu Y, Weirauch MT, Chen X, **Chavan AR**, Wagner GP, Pavličev M, Nnamani MC, Maziarz J, Karjalainen MK, Rämet M, Sengpiel V, Geller F, Boyd HA, Palotie A, Momany A, Bedell B, Ryckman KK, Huusko JM, Forney CR, Kottyan LC, Hallman M, Teramo K, Nohr EA, Davey Smith G, Melbye M, Jacobsson B, Muglia LJ (2017)
+
+1. The inflammation paradox in the evolution of mammalian pregnancy: turning a foe into a friend  
+[*Current Opinion in Genetics & Development* 47:24--32](https://doi.org/10.1016/j.gde.2017.08.004)  
+**Chavan AR**, Griffith OW, Wagner GP (2017)
+
+1. Embryo implantation evolved from an ancestral inflammatory attachment reaction  
+[*PNAS* 114(32):E6566--E6575](https://doi.org/10.1073/pnas.1701129114)  
+Griffith OW, **Chavan AR**, Protopapas S, Maziarz J, Romero R, Wagner GP (2017)
+
+1. Evolution of gene expression in the uterine cervix related to steroid signaling: conserved features in the regulation of cervical ripening    
+[*Scientific Reports* 7(1):4439](https://doi.org/10.1038/s41598-017-04759-6)  
+Wagner GP, Nnamani MC, **Chavan AR**, Maziarz J, Protopapas S, Condon J, Romero R (2017)
+
+1. Single-cell transcriptomics of the human placenta: inferring the cell communication network of the maternal-fetal interface   
+[*Genome Research* 27:349--361](http://www.genome.org/cgi/doi/10.1101/gr.207597.116)  
+Pavlicev M, Wagner GP, **Chavan AR**, Owens K, Maziarz J, Dunn-Fletcher C, Kallapur SG, Muglia L, Jones H (2017)
+
+1. The transcriptomic evolution of mammalian pregnancy: gene expression innovations in endometrial stromal fibroblasts  
+[*Genome Biology & Evolution* 8:2459--2473](https://doi.org/10.1093/gbe/evw168)   
+Kin K, Maziarz J, **Chavan AR**, Kamat M, Vasudevan S, Birt A, Emera D, Lynch VJ, Ott TL, Pavlicev M, Wagner GP (2016)
+
+1. The fetal-maternal interface of the nine-banded armadillo: endothelial cells of maternal sinus are partially replaced by trophoblast    
+[*Zoological Letters* 2:11](https://doi.org/10.1186/s40851-016-0048-1)  
+**Chavan AR**, and Wagner GP (2016)
+
+1. What was the ancestral function of decidual stromal cells? A model for the evolution of eutherian pregnancy    
+[*Placenta* 40:40--51](https://doi.org/10.1016/j.placenta.2016.02.012)  
+**Chavan AR**, Bhullar B-AS, and Wagner GP (2016)
+
+1. Polygenic *cis*-regulatory adaptation in the evolution of yeast pathogenicity  
+[*Genome Research* 22:1930--1939](http://www.genome.org/cgi/doi/10.1101/gr.134080.111)   
+Fraser HB, Levy S\*, **Chavan A**\*, Shah HB, Perez JC, Zhou Y, Siegal ML, Sinha H (2012)  
+(\*equal contribution)  
+
+### Dissertations
+\vspace{-1em}
+1. *Evolutionary origin of cell types: a case study of decidual cells in mammalian pregnancy*  
+**Chavan AR** (2018). Yale University.
+
+2. *Allelic variation in yeast: its role in *cis*-regulatory adaptation and its pleiotropic consequences*  
+**Chavan AR** (2012). Tata Institute of Fundamental Research.
+
+## Funding, Fellowships, and Prizes
+\vspace{-0.5em}
+### Fellowships and Prizes
+\vspace{-1em}
+John Spangler Nicholas Prize (for doctoral dissertation, Yale University)	\hfill 2019  
+CRI Irvington Postdoctoral Fellowship (Cancer Research Institute, New York)	\hfill 2019--2021  
+Finalist, Best Student Presentation Award (Society for Integrative and Comparative Biology; DEDB) \hfill	2018  
+Student Poster Prize (Complex Traits Symposium, Society for Molecular Biology and Evolution) \hfill 2017
+
+### Research and Travel Grants
+\vspace{-1em}
+Young Investigator Travel Award (Society for Molecular Biology and Evolution)	\hfill 2017  
+Chair’s Fund, Ecology & Evolutionary Biology (Yale University) \hfill 2016  
+Conference Travel Fellowship (Yale University) \hfill 2016  
+Chair’s Fund, Ecology & Evolutionary Biology (Yale University) \hfill 2014
+
+### Graduate School Funding Sources
+\vspace{-1em}
+Charles A. & June R. P. Ross Fellowship (Yale University)	\hfill 2016–2017  
+Leo F. Rettger Fellowship (Yale University) \hfill 2014–2015  
+Robert W. Carle Scholarship (Yale University) \hfill	2013–2014  
+Junior Research Scholarship (Tata Institute of Fundamental Research, Government of India) \hfill 2009–2012
+
+## Media Coverage
+\vspace{-0.5em}
+- Coverage for talk at SICB, San Francisco 2018 (now published as Chavan et al, *Mol Biol Evol* 2020)
+  - Tamed immune reaction aids pregnancy, Elizabeth Pennisi, [*Science* 359(6373):260](https://doi.org/10.1126/science.359.6373.260)
+  - Armadillo and rabbit genes reveal how pregnancy evolved, Amy Maxmen, [*Nature*](https://www.nature.com/articles/d41586-018-00341-w) (Republished by [*Scientific American*](https://www.scientificamerican.com/article/armadillo-hedgehog-and-rabbit-genes-reveal-how-pregnancy-evolved/))
+  - When bad things become good: was inflammation modified to become implantation in placental mammals?, Ashley Booth, [*SICB Press Release*](https://www.newswise.com/articles/when-a-bad-thing-becomes-good%3A-was-inflammation-modified-to-become-implantation-in-placental-mammals%3F)
+- Coverage for Griffith et. al, *PNAS* 2017
+  - Evolution of pregnancy may be key to better reproductive technologies today, Jon Atherton, [*Yale News*](https://news.yale.edu/2017/07/24/evolution-pregnancy-may-be-key-better-reproductive-technologies-today) on July 24th, 2017
+- Coverage for Pavlicev et al, *Genome Res.* 2017
+  - What’s in a placenta? A transcriptomic view, [*PLOS Blogs*](https://dnascience.plos.org/2017/03/30/whats-in-a-placenta-a-transcriptomic-view/) by Ricki Lewis on March 30, 2017
+- Coverage for Lu-Culligan et al, *Med* 2021
+  - Immune response to COVID virus may pose greater risk to pregnant women than virus itself, [*Yale News*](https://news.yale.edu/2021/04/22/immune-response-may-pose-greater-risk-pregnant-women-covid-virus) by Bill Hathaway on April 22, 2021
+- SOLE: Technology that’s powered by people ([Interview for The School in the Cloud, Newcastle University, UK](https://web.archive.org/web/20150921062858/https://www.theschoolinthecloud.org/updates/sole-technology-that-s-powered-by-people), by Sarah Cossom, 2015)
+- From the Hole in the Wall to Yale: A Q&A with Arun Chavan ([TED blog](https://blog.ted.com/from-the-hole-in-the-wall-to-yale-a-qa-with-arun-chavan/), by Jamia Wilson, 2013)
+
+## Teaching
+\vspace{-0.5em}
+### Teaching Fellow, Yale University
+\vspace{-1em}
+EEB 290: Comparative Vertebrate Anatomy \hfill 2014 & 2015 Spring  
+EEB 291L: Comparative Vertebrate Anatomy Lab \hfill	2014 & 2015 Spring  
+EEB 210: Introduction to Statistics: for Life Sciences \hfill 2013 Fall   
+EEB 225: Introduction to Evolution \hfill 2013 Spring
+
+### Students mentored
+\vspace{-1em}
+Meena Ambati, Yale College, New Haven CT \hfill 2022--Present   
+Ben Nikitin, Yale College, New Haven CT \hfill 2021--2022  
+Mita Kale, Glastonbury High School, Glastonbury CT \hfill 2016 Summer  
+Haleigh Larson, Yale College, New Haven CT \hfill 2016  
+Minnah Thomas, Tata Institute of Fundamental Research, Mumbai \hfill 2011 Summer
+
+## Academic Service
+\vspace{-0.5em}
+### Journal referee
+\vspace{-1em}
+BMC Genomics  
+Frontiers in Cell and Developmental Biology  
+Integrative and Comparative Biology  
+Journal of Experimental Zoology Part B: Molecular and Developmental Evolution  
+The Journal of Maternal-Fetal & Neonatal Medicine  
+Scientific Reports
+
+### Grant reviewer
+\vspace{-1em}
+Yale Institute for Biospheric Studies Doctoral Pilot Grants \hfill 2019 & 2020  
+Yale Institute for Biospheric Studies Doctoral Dissertation Improvements Grants \hfill 2019 & 2020
+
+## Presentations
+\vspace{-0.5em}
+### Talks
+\vspace{-1em}
+Amphioxus Satellite Meeting, European Society for Evolutionary Developmental Biology, Naples, Italy \hfill 2022  
+3rd Yale Devo-Evo Congress, New Haven, CT, USA \hfill 2022  
+Indian Society of Developmental Biology, IIT Kanpur, India \hfill 2018  
+Evo-Devo Symposium, Yale University, West Haven, CT, USA	\hfill 2018  
+Society for Integrative and Comparative Biology, San Francisco, CA, USA \hfill 2018  
+West Campus Seminar Series, Yale University, West Haven, CT, USA \hfill	2017  
+Evo-Devo Symposium, Yale University, West Haven, CT, USA	\hfill 2017  
+Graduate Student Symposium, Ecology & Evolutionary Biology, Yale University, New Haven, CT, USA \hfill 2017  
+European Society for Evolutionary Developmental Biology, Uppsala, Sweden (Invited symposium talk) \hfill 2016  
+Graduate Student Symposium, Ecology & Evolutionary Biology, Yale University, New Haven, CT, USA \hfill 2016
+
+### Posters
+\vspace{-1em}
+EMBO | EMBL Symposium: The identity and Evolution of Cell Types, Heidelberg, Germany \hfill 2021  
+EMBO | EMBL Symposium: The identity and Evolution of Cell Types, Heidelberg, Germany \hfill 2019  
+Society for Molecular Biology and Evolution, Austin, TX, USA \hfill 2017  
+Systems Biology Institute Symposium, Yale University, West Haven, CT, USA \hfill 2017  
+Gordon Research Conference on Mammalian Reproduction, Waterville Valley, NH, USA \hfill 2016  
+Graduate Student Symposium, Ecology & Evolutionary Biology, Yale University, New Haven, CT, USA \hfill 2014  
+International Conference on Yeast Biology, Mumbai, India \hfill 2011
+
+## Outreach
+\vspace{-0.5em}
+eMediator at The School in the Cloud (weekly Skype sessions with school students in Phaltan, India) \hfill 2015--2016   
+Represented the Department of Biological Sciences on Science Popularization and Public Outreach Committee, Tata Institute of Fundamental Research, India	\hfill 2011--2012  
+Volunteered fortnightly in organizing sessions of ‘Chai and Why?’, a forum for interactive scientific discussions outside the academic setting. (Organized by Tata Institute of Fundamental Research and held at Ruia College and Prithvi Theater, Mumbai, India) \hfill 2009--2011
+
+## Academic References
+\vspace{-0.5em}
+Dr. Ruslan Medzhitov (postdoctoral adviser): ruslan.medzhitov@yale.edu  
+Dr. Gunter P. Wagner (doctoral thesis adviser): gunter.wagner@yale.edu  
+Dr. Mihaela Pavlicev (doctoral thesis committee member): mihaela.pavlicev@univie.ac.at  
+Dr. Richard O. Prum (doctoral thesis committee member): richard.prum@yale.edu  
+Dr. Himanshu Sinha  (master's thesis adviser): sinha@iitm.ac.in
