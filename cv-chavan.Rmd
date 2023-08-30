@@ -33,6 +33,11 @@ CRI Irvington Postdoctoral Fellow	\hfill 2019--2021
 \vspace{-0.5em}
 ### Peer-reviewed
 \vspace{-1em}
+1. Tissue Biology: In Search of a New Paradigm  
+[*Annual Review of Cell and Developmental Biology* 39(1)](https://doi.org/10.1146/annurev-cellbio-120420-113830)  
+Adler M\*, **Chavan AR**\*, Medzhitov R (2023)  
+(\*equal contribution) 
+
 1. SARS-CoV-2 infection in pregnancy is associated with robust inflammatory response at the maternal-fetal interface  
 [*Med* 2(5), 591-610](https://doi.org/10.1016/j.medj.2021.04.016)  
 Lu-Culligan A, **Chavan AR**, Vijayakumar P, Irshaid L, Courchaine EM, Milano KM, Tang Z, Pope SD, Song E, Vogels CBF, Lu-Culligan WJ, Campbell KH, Casanovas-Massana A, Bermejo S, Toothaker JM, Lee HJ, Liu F, Schulz W, Fournier J, Muenker MC, Moore AJ, Yale IMPACT Team, Konnikova L, Neugebauer KM, Ring A, Grubaugh ND, Ko AI, Morotti R, Guller S, Kliman HJ, Iwasaki A, Farhadian SF (2021)
